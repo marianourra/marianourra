@@ -1,6 +1,6 @@
 ### Hi there, I'm Mariano Urra 👋 
 
-## I'm a bootcamp student for Full Stack Developer MERN in process!!
+## I'm a bootcamp graduated for MERN Full Stack Developer!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
