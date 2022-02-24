@@ -3,7 +3,6 @@
 ## I'm a bootcamp graduated for MERN Full Stack Developer!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
-- 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
 - 👀 I’m interesting in Web and Mobile projects
 
 <br />
